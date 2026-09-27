@@ -1,0 +1,13 @@
+{
+  "name": "decodelabs-backend-api-project2",
+  "version": "1.0.0",
+  "description": "DecodeLabs Full Stack Development Project 2 - Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
